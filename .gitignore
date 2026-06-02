@@ -2,3 +2,5 @@
 .DS_Store
 
 .ipynb_checkpoints/
+
+load_data_to_sql.ipynb
